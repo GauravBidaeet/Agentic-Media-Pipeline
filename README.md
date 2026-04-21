@@ -63,8 +63,8 @@ This project automates the entire lifecycle of a meeting:
 ## 🔧 Setup Instructions
 
 ### 1. Clone Repository
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/GauravBidaeet/Agentic-Media-Pipeline.git)
+cd Agentic-Media-Pipeline
 
 ### 2. Install Dependencies
 pip install -r requirements.txt
